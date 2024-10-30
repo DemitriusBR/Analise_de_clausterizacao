@@ -29,10 +29,10 @@ Os dados foram extraídos de um conjunto disponível no Kaggle, contendo transa�
 
 ## Resumo dos repositorios
 
--  **Base**: Liberação do dados e as informações que a compoem
+-  **Base**: Detalhamento da liberação dos dados utilizados, incluindo informações sobre as colunas e o contexto das transações. Também são abordados aspectos relacionados à qualidade dos dados e possíveis inconsistências encontradas.
 -  **Projeto_att.ipynb**: Jupyter Notebook que documenta todo o processo de análise e clusterização, desde a exploração inicial dos dados até a implementação do modelo de clustering. O notebook apresenta visualizações e explicações detalhadas de cada etapa metodológica aplicada.
--  **Resumo do Projeto**: Visão geral das ações realizadas
--  **Insights**: Apresentação das conclusões que foram retiradas a partir projeto
+-  **Resumo do Projeto**: Uma visão geral das ações realizadas, cobrindo a análise exploratória, o pré-processamento dos dados, a seleção do algoritmo de clusterização e a interpretação dos resultados. Este resumo destaca as etapas principais e os métodos empregados para alcançar os objetivos propostos.
+-  **Insights**: Apresentação das conclusões obtidas a partir do projeto, incluindo padrões de comportamento de compra identificados entre os diferentes clusters de clientes. Também são oferecidas sugestões para personalizar campanhas de marketing e ações recomendadas para aumentar o engajamento e a conversão dos clientes.
 
 ## Conclusões e Recomendações
 

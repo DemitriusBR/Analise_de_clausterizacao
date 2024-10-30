@@ -42,10 +42,6 @@ O objetivo deste projeto é analisar o comportamento dos clientes utilizando a t
 ## Função do Projeto
 Este projeto visa segmentar a base de clientes para entender melhor seus comportamentos de compra. Ao utilizar as métricas RFM, ele ajuda a identificar grupos de clientes que podem ser alvos de campanhas de marketing mais eficazes. Além disso, a análise de outliers e a visualização dos dados proporcionam insights valiosos sobre a saúde das vendas e o comportamento dos consumidores, permitindo tomadas de decisões informadas para melhorar a retenção e a aquisição de clientes.
 
-## Como Usar
-1. Clone este repositório.
-2. Instale as dependências necessárias.
-3. Execute os scripts na ordem das etapas descritas para realizar a análise.
 
 ## Contribuições
 Contribuições são bem-vindas! Sinta-se à vontade para abrir uma issue ou enviar um pull request.
